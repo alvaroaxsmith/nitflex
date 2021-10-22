@@ -28,7 +28,7 @@
 
     &.shrink {
         height: $header-shrink-height;
-        background-color: $body-bg;
+        background-color: $body-br;
     }
 
     &__wrap {
@@ -78,7 +78,7 @@
             left: 0;
             height: 5rem;
             width: 100%;
-            background-color: $body-bg;
+            background-color: $body-br;
             padding: 0 2rem;
             box-shadow: $box-shadow;
 
